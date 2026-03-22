@@ -10,9 +10,9 @@
 
 <p align="center">
 <a href="mailto:mayurbhoi200@gmail.com">📧 Email</a> •
-<a href="#">LinkedIn</a> •
-<a href="#">GitHub</a> •
-<a href="#">LeetCode</a>
+<a href="https://www.linkedin.com/in/mayur-bhoi-59237a16a/">LinkedIn</a> •
+<a href="https://github.com/mayurlotanbhoi">GitHub</a> •
+<a href="https://leetcode.com/u/mayurlotanbhoi/">LeetCode</a>
 </p>
 
 ---
